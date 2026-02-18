@@ -1,0 +1,55 @@
+
+info [Mon May 15 2023 11:08:10 GMT+0000 (Coordinated Universal Time)]  http server start ...
+info [Mon May 15 2023 11:08:10 GMT+0000 (Coordinated Universal Time)]  http server listen on 3000
+info [Mon May 15 2023 11:08:16 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 11:08:16 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?publicKey=dasdx","query":{"publicKey":"dasdx"},"pathname":"/create","path":"/create?publicKey=dasdx","href":"/create?publicKey=dasdx"}
+error [Mon May 15 2023 11:08:16 GMT+0000 (Coordinated Universal Time)]  DANGER !!!! >>> in request  lastdata.push is not a function
+info [Mon May 15 2023 11:09:15 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 11:09:15 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+info [Mon May 15 2023 11:09:15 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /
+info [Mon May 15 2023 11:09:15 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 11:10:23 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 11:10:23 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/favicon.ico","path":"/favicon.ico","href":"/favicon.ico"}
+info [Mon May 15 2023 11:10:23 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /favicon.ico
+info [Mon May 15 2023 11:10:23 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 11:10:56 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 11:10:56 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/geoserver/web/","path":"/geoserver/web/","href":"/geoserver/web/"}
+info [Mon May 15 2023 11:10:56 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /geoserver/web/
+info [Mon May 15 2023 11:10:56 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 11:51:00 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 11:51:00 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+info [Mon May 15 2023 11:51:00 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /
+info [Mon May 15 2023 11:51:00 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 12:13:40 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:13:40 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+info [Mon May 15 2023 12:13:40 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /
+info [Mon May 15 2023 12:13:40 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 12:16:37 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:16:37 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?publicKey=cxfdfed","query":{"publicKey":"cxfdfed"},"pathname":"/create","path":"/create?publicKey=cxfdfed","href":"/create?publicKey=cxfdfed"}
+error [Mon May 15 2023 12:16:37 GMT+0000 (Coordinated Universal Time)]  DANGER !!!! >>> in request  lastdata.push is not a function
+info [Mon May 15 2023 12:19:25 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:19:25 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/create","path":"/create","href":"/create"}
+error [Mon May 15 2023 12:19:25 GMT+0000 (Coordinated Universal Time)]  DANGER !!!! >>> in request  lastdata.push is not a function
+info [Mon May 15 2023 12:19:32 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:19:32 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+info [Mon May 15 2023 12:19:32 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /
+info [Mon May 15 2023 12:19:32 GMT+0000 (Coordinated Universal Time)]  *** end request
+
+info [Mon May 15 2023 12:21:16 GMT+0000 (Coordinated Universal Time)]  http server start ...
+info [Mon May 15 2023 12:21:16 GMT+0000 (Coordinated Universal Time)]  http server listen on 3000
+info [Mon May 15 2023 12:21:30 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:21:30 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?publicKey=milad","query":{"publicKey":"milad"},"pathname":"/create","path":"/create?publicKey=milad","href":"/create?publicKey=milad"}
+info [Mon May 15 2023 12:21:30 GMT+0000 (Coordinated Universal Time)]  *** end request
+
+info [Mon May 15 2023 12:31:24 GMT+0000 (Coordinated Universal Time)]  http server start ...
+info [Mon May 15 2023 12:31:24 GMT+0000 (Coordinated Universal Time)]  http server listen on 3000
+info [Mon May 15 2023 12:32:07 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:32:07 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?publicKey=4","query":{"publicKey":"4"},"pathname":"/remove","path":"/remove?publicKey=4","href":"/remove?publicKey=4"}
+info [Mon May 15 2023 12:32:07 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  *** start request POST
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  request info POST {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  *** end request
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  *** start request GET
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  request info GET {"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/.env","path":"/.env","href":"/.env"}
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  pathname not found ! /.env
+info [Mon May 15 2023 12:32:49 GMT+0000 (Coordinated Universal Time)]  *** end request
