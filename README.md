@@ -11,7 +11,7 @@ sudo apt-get update
 sudo apt-get install nodejs -y
 
 
-git clone https://github.com/lokidv/ovpn.git
+git clone https://github.com/mohammaddd1376/kvpn.git
 mv ovpn/ /home
 cd /home
 mkdir bvpn
