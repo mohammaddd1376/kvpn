@@ -58,7 +58,7 @@ systemctl restart openvpn
 
 crontab -e
 * * * * * /bin/systemctl is-active --quiet udp2raw.service || /bin/systemctl restart udp2raw.service
-*/10 * * * * /bin/systemctl restart bvpn.service
+*/10 * * * * /bin/systemctl restart kvpn.service
 or
 
 
