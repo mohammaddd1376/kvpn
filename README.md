@@ -19,7 +19,7 @@ mv ovpn/* kvpn/
 rm -r ovpn/
 
 
-cd bvpn/
+cd kvpn/
 rm openvpn-install.sh
 wget https://raw.githubusercontent.com/angristan/openvpn-install/0f324ef3b9f50c765838a8cb626d2a7a6674ca1d/openvpn-install.sh
 chmod +x openvpn-install.sh
